@@ -1,10 +1,10 @@
 # NOTE
 
-I am no longer doing anything with brat and am not maintaining this at all. 
+これはFork元のコメントを日本語訳しました。
 
 # brat docker
 
-This is a docker container deploying an instance of [brat](http://brat.nlplab.org/).
+これは[brat](http://brat.nlplab.org/)サーバをデプロイするdockerコンテナです。
 
 
 ### Installation
